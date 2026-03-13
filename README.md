@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 11.03.2026
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -39,14 +39,27 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
-## Output:
+<img width="1491" height="811" alt="image" src="https://github.com/user-attachments/assets/efa33376-7ffb-4fb2-bab9-3e496f8c77ef" />
 
-### Name:
-### Register Number:
+<img width="1414" height="811" alt="image" src="https://github.com/user-attachments/assets/d1b07487-4be5-41db-8d20-3064f7127024" />
+
+<img width="1389" height="736" alt="image" src="https://github.com/user-attachments/assets/f088a400-5d62-481d-beda-2c5eb91ccc68" />
+
+<img width="1886" height="790" alt="Screenshot 2026-03-11 161107" src="https://github.com/user-attachments/assets/748a26f5-7e39-47ae-a046-5f9ea40831e9" />
+
+<img width="1886" height="778" alt="Screenshot 2026-03-11 161124" src="https://github.com/user-attachments/assets/35639e62-ac0a-4bef-991a-80554e5bcb1d" />
+
+<img width="1863" height="776" alt="Screenshot 2026-03-11 161150" src="https://github.com/user-attachments/assets/dbd4ad6d-e522-4d9d-90c4-e9cc4ed46ab0" />
+
+<img width="1862" height="768" alt="Screenshot 2026-03-11 161213" src="https://github.com/user-attachments/assets/cffa7c61-53a5-4b3f-b6a8-37594c943442" />
+
+<img width="1877" height="790" alt="Screenshot 2026-03-11 161228" src="https://github.com/user-attachments/assets/378273bf-5c9d-4aff-a4e1-6066a2e0cb6b" />
+
+<img width="1875" height="785" alt="Screenshot 2026-03-11 161249" src="https://github.com/user-attachments/assets/8fc91e70-f519-47af-a5d5-31dbd5212526" />
+
+### Name: NITHISH R
+### Register Number: 212225230202
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
